@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341013989759",
+    "project_id": "my-project-with-almotaz",
+    "storage_bucket": "my-project-with-almotaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341013989759:android:d1072d18d727ba3073b24a",
+        "android_client_info": {
+          "package_name": "com.example.mohammad_shboul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341013989759-1bnf21gu87g0d9jlnvvu3ib6031ojn8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSm0jOW39ZNy8PtZLLQwVuOaabGELogLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341013989759-1bnf21gu87g0d9jlnvvu3ib6031ojn8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
